@@ -38,6 +38,7 @@ mastodon: "blob.cat/seek"
 
 title-logo: /images/Sujee.png
 # Build settings
+
 # minima theme is removed because now it's a regular theme
 # theme: minima
 plugins:
