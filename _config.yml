@@ -30,19 +30,30 @@ url: "https://sujeewasandeepa.github.io/" # the base hostname & protocol for you
 github_username:  sujeewasandeepa
 
 # Fields that minuma uses but are not default
-author: Sujeewa Sandeepa
+#author
+author:
+  name: Sujeewa Sandeepa
 
 # Adding copyright
-copyright: "Sujee's website"
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
+
 linkedin_username: "sujeewa-s-kularathna-112065170"
 mastodon: "blob.cat/seek"
 
 title-logo: /images/Sujee.png
 # Build settings
 
+
+#related to theme
 # minima theme is removed because now it's a regular theme
 # theme: minima
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
+skin: soft
+
+
+
 
 plugins:
   - jekyll-feed
