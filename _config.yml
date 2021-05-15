@@ -42,7 +42,7 @@ title-logo: /images/Sujee.png
 
 # minima theme is removed because now it's a regular theme
 # theme: minima
-theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 plugins:
   - jekyll-feed
