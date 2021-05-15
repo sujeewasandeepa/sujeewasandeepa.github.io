@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # changed the file
+
 title: Sujee's website
 email: sujeewasandeepa@protonmail.ch
 description: >- # this means to ignore newlines until "baseurl:"
@@ -41,6 +42,8 @@ title-logo: /images/Sujee.png
 
 # minima theme is removed because now it's a regular theme
 # theme: minima
+theme: jekyll-theme-basically-basic
+
 plugins:
   - jekyll-feed
 
