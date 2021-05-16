@@ -2,7 +2,7 @@
 layout: post
 title:  "[Matrix]"
 sub_title: "The better discord alternative!"
-date:   2021-05-16 20:33:18 +0530
+date:   2021-05-16 21:52:18 +0530
 categories: jekyll update
 image: /images/matrix.jpg
 ---
