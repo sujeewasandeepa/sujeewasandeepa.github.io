@@ -4,4 +4,6 @@
 
 layout: home
 title: The Circus of Values
+image:
+    path: /images/indeximg.jpg
 ---
