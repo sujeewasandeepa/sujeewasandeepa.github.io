@@ -3,7 +3,7 @@ layout: post
 title:  "How to use jekyll with github pages to create a static website and host free of charge (part 01)"
 date:   2021-05-14 20:08:18 +0530
 categories: jekyll update
-image: /images/jekyll.png
+image: /images/jekyll.jpg
 ---
 
 Hello there folks,

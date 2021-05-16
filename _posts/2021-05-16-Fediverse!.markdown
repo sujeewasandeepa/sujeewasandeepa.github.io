@@ -4,7 +4,7 @@ title:  "Fediverse!"
 sub_title: "Everything you need to know about the great fediverse!"
 date:   2021-05-16 20:33:18 +0530
 categories: jekyll update
-image: /images/fediverse.png
+image: /images/fediverse.jpg
 ---
 What is fediverse? Well it's the best thing you can ever imagine if you are a social media person, and is already tired most social media like Facebook, Instagram and twitter. Basically fediverse is the other beautiful side of the internet. It's big but it's not a single body it's a huge collection thousands of servers hosted all around the globe by not multi million or billion dollar companies but by normal people like you and me. 
 
