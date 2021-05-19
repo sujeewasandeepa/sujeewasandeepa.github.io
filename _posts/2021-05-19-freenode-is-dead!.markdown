@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Free node is dead!"
+title:  "Freenode is dead!"
 date:   2021-05-19 20:30:18 +0530
 categories: jekyll update
 ---
