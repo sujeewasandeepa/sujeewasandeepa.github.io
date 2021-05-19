@@ -53,7 +53,6 @@ title-logo: /images/Sujee.png
 # minima theme is removed because now it's a regular theme
 # theme: minima
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-skin: soft
 
 
 

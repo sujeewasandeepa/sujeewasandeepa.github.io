@@ -5,7 +5,7 @@
 layout: home
 title: The Circus of Values
 image:
-    path: /images/indeximg.jpg
+    path: /images/dark-lion.jpg
 ---
 Welcome to my personal website, well mostly my blog. I hope to blog about my daily experiences with stuff mostly tech. But is not limited to. 
 
