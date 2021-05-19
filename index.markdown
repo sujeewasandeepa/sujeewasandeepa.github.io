@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: The Circus of Values
+title: ආයුබෝවන්
 image:
     path: /images/dark-lion.jpg
 ---
